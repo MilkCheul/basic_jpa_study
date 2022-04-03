@@ -1,0 +1,7 @@
+/.settings/
+/target/
+/.classpath
+/.project
+/.externalToolBuilders
+/.idea/
+/react-webpack/package-lock.json
